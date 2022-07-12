@@ -1,4 +1,4 @@
-# LoadGenerate一个开源的现代一个简单的免杀加载生成器
+# LoadGenerate一个开源简单的免杀加载生成器
 
 [在这里下载](https://github.com/l140w4n9/LoadGenerate/files/9088861/LoadGenerate_x64.zip)，推荐使用64位，64位免杀效果比较好
 
