@@ -16,7 +16,7 @@ v1.0.0——初始版本
 
 CS生成bin文件
 
-![image-20220712103013278](image/GIF 2022-07-12 10-55-57.gif)
+![image-20220712103013278](https://github.com/l140w4n9/LoadGenerate/blob/master/image/GIF%202022-07-12%2010-49-06.gif)
 
 生成shellcode加载器
 
