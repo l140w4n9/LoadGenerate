@@ -2,7 +2,7 @@
 
 [在这里下载](https://github.com/l140w4n9/LoadGenerate/files/9088861/LoadGenerate_x64.zip)，推荐使用64位，64位免杀效果比较好
 
-![image-20220712103013279](image/image-20220712103013279.png)
+![image-20220712103013279](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712103013279.png)
 
 ## 概述
 
@@ -26,24 +26,24 @@ CS生成bin文件
 
 ​	1、使用VS可以直接编译
 
-![image-20220712105822214](image/image-20220712105822214.png)
+![image-20220712105822214](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712105822214.png)
 
  2、不想安装VS的可以使用从VS中分离出的compile工具编译
 
 ​	配置INCLUDE环境变量——>新建INCLUDE——>把include下的五个文件夹的绝对路径写入
 
-![image-20220712110825523](image/image-20220712110825523.png)
+![image-20220712110825523](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712110825523.png)
 
 ​	配置LIB环境变量——>新建LIB——>把lib文件夹的绝对路径写入
 
-![image-20220712110930065](image/image-20220712110930065.png)
+![image-20220712110930065](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712110930065.png)
 
 ```
 .\compile\x64\cl.exe .\result\TemplateREG.cpp /permissive- /ifcOutput "result\" /GS /GL /W3 /Gy /Zc:wchar_t /Zi /Gm- /O2 /sdl /Fd"result\" /Zc:inline /fp:precise /D "NDEBUG" /D "_WINDOWS" /D "_UNICODE" /D "UNICODE" /errorReport:prompt /WX- /Zc:forScope /Gd /Oi /MD /FC /Fa"result\" /EHsc /nologo /Fo"result\"  /Fp"result\"
 ```
 
-![image-20220712111333303](image/image-20220712111333303.png)
+![image-20220712111333303](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712111333303.png)
 
 ## 免杀测试
 
-![image-20220712112718014](image/image-20220712112718014.png)
+![image-20220712112718014](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712112718014.png)
