@@ -2,7 +2,7 @@
 
 [在这里下载](https://github.com/l140w4n9/LoadGenerate/files/9088861/LoadGenerate_x64.zip)，推荐使用64位，64位免杀效果比较好
 
-![image](https://github.com/l140w4n9/LoadGenerate/blob/master/image/image-20220712103013279.png)
+<img alt="Usage Exemple" src="image/image-20220712103013279.png"/>
 
 ## 概述
 
